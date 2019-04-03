@@ -1,2 +1,2 @@
 This is test 3.
-New lines in test 3.
+New line in feature.
